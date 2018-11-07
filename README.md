@@ -1,6 +1,12 @@
 # Firebase-Storage-upload-and-retreive-images-android-studio
 Here is how I retreive and upload images after the Android studio Update.
 
+## ATENTION
+The full app is with Firebase Authentication if you only want to use the Image upload and retreive functions then go to the setup.java file
+and only copy that code.
+
+!! I HOPE IT WORKS!!!
+
 ![45647459_358840704920629_8801343104331284480_n](https://user-images.githubusercontent.com/35815298/48095405-f1dfcf00-e214-11e8-9c06-37e48f2316ad.png)
 ![45647055_1960292417396263_5077536897408958464_n](https://user-images.githubusercontent.com/35815298/48095409-f3a99280-e214-11e8-8a6f-bcfa63723975.png)
 ![45483827_260393728158364_6898407536886546432_n](https://user-images.githubusercontent.com/35815298/48095411-f5735600-e214-11e8-8bf5-10aa445e069f.png)
